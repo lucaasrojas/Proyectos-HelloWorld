@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\LucasRojas\Downloads\xhow-to-draw-darth-vader.gif.pagespeed.ic.-p_lqYBCpL.png</Source>
+    <SmallTileSource>C:\Users\LucasRojas\Downloads\xhow-to-draw-darth-vader.gif.pagespeed.ic.-p_lqYBCpL.png</SmallTileSource>
+    <MediumTileSource>C:\Users\LucasRojas\Downloads\xhow-to-draw-darth-vader.gif.pagespeed.ic.-p_lqYBCpL.png</MediumTileSource>
+    <WideTileSource>C:\Users\LucasRojas\Downloads\xhow-to-draw-darth-vader.gif.pagespeed.ic.-p_lqYBCpL.png</WideTileSource>
+    <LargeTileSource>C:\Users\LucasRojas\Downloads\xhow-to-draw-darth-vader.gif.pagespeed.ic.-p_lqYBCpL.png</LargeTileSource>
+    <AppIconSource>C:\Users\LucasRojas\Downloads\xhow-to-draw-darth-vader.gif.pagespeed.ic.-p_lqYBCpL.png</AppIconSource>
+    <SplashScreenSource>C:\Users\LucasRojas\Downloads\xhow-to-draw-darth-vader.gif.pagespeed.ic.-p_lqYBCpL.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\LucasRojas\Downloads\xhow-to-draw-darth-vader.gif.pagespeed.ic.-p_lqYBCpL.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
